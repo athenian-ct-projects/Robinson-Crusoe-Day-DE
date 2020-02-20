@@ -1,9 +1,7 @@
-# Assignment Description
+# Robinson Crusoe Day CYOA
 
-written by 
+written by DE '23
 
-edit with appropriate link:
+[![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Robinson-Crusoe-Day-DE)](https://repl.it/github/athenian-ct-projects/Robinson-Crusoe-Day-DE)
 
-[![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Ambassador-Day-Game-VGE)](https://repl.it/github/athenian-ct-projects/Ambassador-Day-Game-VGE)
-
-Add info about game here
+* A choose your own adventure game
